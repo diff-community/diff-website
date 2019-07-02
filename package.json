@@ -1,0 +1,11 @@
+{
+  "name": "diff-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diff-community/diff-website.git",
+  "author": "Shailen <shailen@gettruck.co.za>",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  }
+}
